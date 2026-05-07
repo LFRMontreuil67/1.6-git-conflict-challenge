@@ -2,3 +2,4 @@
 Quete 1.6
 
 Créé depuis GitHub
+Modifié depuis le Git Local
